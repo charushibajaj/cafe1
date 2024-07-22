@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+}
+#name{
+    color: aliceblue;
+    font-size: 30px;
+    font-family:  "Lato", sans-serif; 
+    font-weight: 800;
+}
+header{
+    background-color: black;
+    height: 100px;
+    display: flex;
+}
+#hello a{
+    text-decoration: none;
+    padding: 20px;
+}
+#hello{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 40px;
+    font-size: large;
+}
+#imgmain{
+    height: 70px;
+    margin: 15px;
+}
+h1{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: 50px;
+}
+#photos{
+    margin: 50px;
+    margin-left: 280px;
+}
+#img1,#img2,#img3{
+    height: 400px;
+    width: 300px;
+}
+#para1,#para2,#para3,#para4{
+    color: aliceblue;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+footer{
+    margin-top:0px;
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    height: 40px;
+    padding-top: 15px;
+}
